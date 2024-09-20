@@ -1,0 +1,16 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "items/diamond_sword"
+  },
+  "overrides": [
+    {
+      "predicate": { "damage": 0 }, 
+      "model": "item/diamond_sword_full"
+    },
+    {
+      "predicate": { "damage": 0.5 }, 
+      "model": "item/diamond_sword_mid"
+    }
+  ]
+}
