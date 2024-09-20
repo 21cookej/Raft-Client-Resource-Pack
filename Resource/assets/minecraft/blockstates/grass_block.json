@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "minecraft:block/my_custom_model" }
+  }
+}
