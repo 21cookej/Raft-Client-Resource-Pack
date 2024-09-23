@@ -4,7 +4,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "planks_oak",
-		"1": "pixil-frame-0 (9)",
+		"1": "blocks/planks2",
 		"particle": "planks_oak"
 	},
 	"elements": [
