@@ -3,10 +3,10 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "obsidian",
-		"1": "crystal",
-		"4": "endercrystal",
-		"particle": "obsidian"
+		"0": "blocks/obsidian",
+		"1": "blocks/crystal",
+		"4": "blocks/endercrystal",
+		"particle": "blocks/obsidian"
 	},
 	"elements": [
 		{
