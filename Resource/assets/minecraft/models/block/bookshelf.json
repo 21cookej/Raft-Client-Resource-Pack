@@ -3,14 +3,14 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "shri",
-		"1": "block/texture1",
-		"2": "block/texture2",
-		"3": "block/texture3",
-		"4": "block/texture4",
-		"5": "block/texture5",
-		"6": "block/texture6",
-		"particle": "shri"
+		"0": "blocks/shri",
+		"1": "blocks/texture1",
+		"2": "blocks/texture2",
+		"3": "blocks/texture3",
+		"4": "blocks/texture4",
+		"5": "blocks/texture5",
+		"6": "blocks/texture6",
+		"particle": "blocks/shri"
 	},
 	"elements": [
 		{
