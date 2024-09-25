@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"3": "obsidian",
-		"5": "beacon_crystal1",
-		"6": "beacon_glass_crystal2",
-		"10": "block/energy4",
-		"11": "block/middle4",
-		"particle": "beacon_glass_crystal2"
+		"3": "blocks/obsidian",
+		"5": "blocks/beacon_crystal1",
+		"6": "blocks/beacon_glass_crystal2",
+		"10": "blocks/energy4",
+		"11": "blocks/middle4",
+		"particle": "blocks/beacon_glass_crystal2"
 	},
 	"elements": [
 		{
