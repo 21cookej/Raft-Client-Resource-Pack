@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/flicker",
-		"particle": "block/flicker"
+		"0": "blocks/flicker",
+		"particle": "blocks/flicker"
 	},
 	"elements": [
 		{
