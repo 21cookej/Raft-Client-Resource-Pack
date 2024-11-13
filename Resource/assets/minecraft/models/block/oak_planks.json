@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/planks_oak.png",
+		"0": "blocks/oak_planks.png",
 		"1": "blocks/obsidian.png",
-		"particle": "blocks/planks_oak.png"
+		"particle": "blocks/oak_planks.png"
 	},
 	"elements": [
 		{
